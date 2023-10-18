@@ -36,7 +36,7 @@ Desenvolvido para gerenciar tarefas, este backend fornece a API que suporta toda
 ## Execução Local
 ```
 1. Garanta que você tenha o Java e o Maven instalados.
-2. git clone https://github.com/Ronaldop12/tarefa-backend.git` para clonar o repositório.
+2. Clone o repositório: [tarefa-backend](https://github.com/Ronaldop12/tarefa-backend.git)
 3. Navegue até a raiz do projeto.
 4. Execute `mvn spring-boot:run` para iniciar a aplicação.
 5. Acesse http://localhost:8080/api/tarefas (ou a porta configurada) para acessar a API.
